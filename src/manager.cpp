@@ -96,5 +96,5 @@ static void __exit krm_exit(void) {
 module_init(krm_init);
 module_exit(krm_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Aman");
 MODULE_DESCRIPTION("Kernel Resource Manager using Red-Black Tree");
